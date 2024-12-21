@@ -5,21 +5,23 @@
 ## Build
 ### build it on your home folder (recommended)
 
-    $ git clone https://github.com/menaie/arraylinux
+    $ git clone https://github.com/Array-Linux/arraylinux-hyprland.git
 
-Create the folder named "array-repo" in root folder ``/array-repo/``
+Create the folder named "array-repo" in root folder 
+
+    $ mkdir /array-repo
 
 Move all packages inside "repo" folder on the cloned repository to /array-repo/ and create a local repository using:
 
-     # to create the repo
+    # to create the .db file
     $ repo-add /array-repo/array-repo.db.tar.gz
      
-     # to add packages to the repo
+    # to add packages to the repository
     $ repo-add -n /array-repo/array-repo.db.tar.gz *.zst
 
 If you want to add any other packages, you should add the package (which has .pkg.tar.zst extension) inside ``/array-repo/`` and do the command to add the packages to the local repo again
 
- then modify ``packages.x86_64`` inside ``arraylinux/arraylinux-hyprland/`` by putting the name of the package added in any line
+ then modify ``packages.x86_64`` inside ``arraylinux-hyprland/`` by putting the name of the package added in any line
 
 Now you can proceed to modify anything you want before building the ISO by doing these commands:
 
