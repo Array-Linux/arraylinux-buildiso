@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=arraylinux-theme
+Comment=GTK3.0 Theme made in Themix/Oomox for ArrayLinux
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=arraylinux-theme
+GtkTheme=arraylinux-theme
+IconTheme=arraylinux-theme
+MetacityTheme=arraylinux-theme

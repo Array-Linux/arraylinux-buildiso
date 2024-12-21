@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:naien
+wheel:x:10:naien
+uucp:x:14:naien
+naien:x:1000:naien
