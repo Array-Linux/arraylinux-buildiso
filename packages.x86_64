@@ -128,16 +128,18 @@ wofi
 kitty
 polkit-gnome
 nwg-look
+thunar
+thunar-archive-plugin
+thunar-media-tags-plugin
+thunar-volman
+nm-connection-editor
+network-manager-applet
 
 # Tools
 
 code
 firefox
 gparted
-thunar
-thunar-archive-plugin
-thunar-media-tags-plugin
-thunar-volman
 htop
 
 # Audio
