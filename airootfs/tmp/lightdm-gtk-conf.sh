@@ -9,3 +9,10 @@ cp /usr/share/pixmaps/arraylinux-wallpaper.png /mnt/usr/share/pixmaps/arraylinux
 cp /usr/share/wallpapers/arraylinux-wallpaper.png /mnt/usr/share/wallpapers/arraylinux-wallpaper.png
 
 cp -r /usr/share/themes/arraylinux-theme /mnt/usr/share/themes/arraylinux-theme
+
+rm /mnt/home/*/Desktop/Install_System.desktop
+
+mkdir /mnt/home/*/Documents
+mkdir /mnt/home/*/Downloads
+mkdir /mnt/home/*/Videos
+mkdir /mnt/home/*/Pictures
