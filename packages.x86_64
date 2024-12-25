@@ -180,6 +180,7 @@ solid
 boost
 extra-cmake-modules
 ninja
+python312
 plasma-framework5
 python-jsonschema
 python-pyaml
