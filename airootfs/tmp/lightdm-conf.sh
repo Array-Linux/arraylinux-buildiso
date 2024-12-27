@@ -1,4 +1,5 @@
 #!/bin/bash
+
 if [ -f /mnt/etc/lightdm/lightdm.conf ]; then
     rm /mnt/etc/lightdm/lightdm.conf
 fi
@@ -19,7 +20,6 @@ cp -r /usr/share/themes/arraylinux-theme /mnt/usr/share/themes/arraylinux-theme
 if [ -f /mnt/home/*/Desktop/Install_System.desktop ]; then
     rm /mnt/home/*/Desktop/Install_System.desktop
 fi
-rm /mnt/home/*/Desktop/Install_System.desktop
 
 mkdir /mnt/home/*/Documents
 mkdir /mnt/home/*/Downloads
