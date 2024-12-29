@@ -137,10 +137,10 @@ network-manager-applet
 
 # Tools
 
-code
 firefox
 gparted
 htop
+mousepad
 
 # Audio
 pipewire
@@ -150,6 +150,7 @@ pipewire-pulse
 pipewire-zeroconf
 
 # Bluetooth
+
 bluez
 bluez-utils
 
