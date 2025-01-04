@@ -4,8 +4,9 @@
 
 
 Distro State
-> The Distro is still 30% finished
-## Build
+> The Distro is still 40% finished
+## Build 
+> (not recommended to do yet)
 ### build it on your home folder (recommended)
 
     $ git clone https://github.com/Array-Linux/arraylinux-hyprland.git
