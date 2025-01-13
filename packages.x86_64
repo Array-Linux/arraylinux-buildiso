@@ -135,6 +135,7 @@ thunar-media-tags-plugin
 thunar-volman
 nm-connection-editor
 network-manager-applet
+ttf-cousine-nerd
 
 # Tools
 
@@ -142,6 +143,8 @@ firefox
 gparted
 htop
 mousepad
+
+## Softwares
 
 # Audio
 pipewire
