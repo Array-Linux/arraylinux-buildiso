@@ -9,7 +9,7 @@ Distro State
 > (not recommended to do yet)
 ### build it on your home folder (recommended)
 
-    $ git clone https://github.com/Array-Linux/arraylinux-hyprland.git
+    $ git clone https://github.com/Array-Linux/arraylinux-buildiso.git
 
 Create the folder named "array-repo" in root folder 
 
@@ -25,14 +25,14 @@ Move all packages inside "repo" folder on the cloned repository to /array-repo/ 
 
 If you want to add any other packages, you should add the package (which has .pkg.tar.zst extension) inside ``/array-repo/`` and do the command to add the packages to the local repo again
 
- then modify ``packages.x86_64`` inside ``arraylinux-hyprland/`` by putting the name of the package added in any line
+ then modify ``packages.x86_64`` inside ``arraylinux-buildiso/`` by putting the name of the package added in any line
 
 Now you can proceed to modify anything you want before building the ISO by doing these commands:
 
     $ mkdir ~/work
     $ mkdir ~/out
 
-    $ sudo mkarchiso -v ~/arraylinux/arraylinux-hyprland -w ~/work -o ~/out
+    $ sudo mkarchiso -v ~/arraylinux/arraylinux-buildiso -w ~/work -o ~/out
 
 or you can write a script called ``build.sh`` or anything you want
 
@@ -41,7 +41,7 @@ or you can write a script called ``build.sh`` or anything you want
     mkdir ~/work
     mkdir ~/out
 
-    sudo mkarchiso -v ~/arraylinux/arraylinux-hyprland -w ~/work -o ~/out
+    sudo mkarchiso -v ~/arraylinux/arraylinux-buildiso -w ~/work -o ~/out
 then do ``chmod +x build.sh``
 
 If you need to change anything, you should use ```sudo rm -r``` on both folders "work" and "out" before building the ISO again
