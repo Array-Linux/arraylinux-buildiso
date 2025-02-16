@@ -112,37 +112,10 @@ zsh
 
 ## Desktop
 
-hyprcursor
-hyprland
-hyprpaper
-hyprutils
-lightdm
-lightdm-gtk-greeter
-xdg-desktop-portal-hyprland
-qogir-icon-theme
-arraylinux-theme
-
-# Desktop tools
-
-waybar
-wofi
-kitty
-polkit-gnome
-nwg-look
-thunar
-thunar-archive-plugin
-thunar-media-tags-plugin
-thunar-volman
-nm-connection-editor
-network-manager-applet
-ttf-cousine-nerd
-
-# Tools
-
+arraylinux-kde
 firefox
 gparted
 htop
-mousepad
 
 ## Softwares
 
