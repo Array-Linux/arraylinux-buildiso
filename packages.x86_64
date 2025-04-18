@@ -112,8 +112,14 @@ zsh
 
 ## Desktop
 
-plasma
-arraylinux-kde
+cinnamon
+arraylinux-theming
+adw-gtk-theme
+qogir-icon-theme
+
+# Utilities
+
+nemo
 firefox
 gparted
 htop
