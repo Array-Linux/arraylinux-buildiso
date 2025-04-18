@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="arraylinux"
+iso_name="Arraylinux Zephyr"
 iso_label="ARRAY_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
-iso_publisher="Array Linux <https://archlinux.org>"
+iso_publisher="Array Linux <https://github.com/Array-Linux>"
 iso_application="Array Linux Live/Rescue DVD"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
 install_dir="arch"
