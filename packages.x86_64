@@ -113,12 +113,15 @@ zsh
 ## Desktop
 
 cinnamon
-arraylinux-theming
+# arraylinux-theming
 adw-gtk-theme
-qogir-icon-theme
+# qogir-icon-theme
 
 # Utilities
 
+kitty
+fish
+fastfetch
 nemo
 firefox
 gparted
@@ -152,40 +155,40 @@ gvfs-smb
 
 # Calamares dependencies
 
-kconfig
-kcoreaddons
-ki18n
-kiconthemes
-kio
-polkit-qt6
-qt6-base
-qt6-svg
-qt6-tools
-solid
-boost
-extra-cmake-modules
-ninja
-python312
-plasma-framework5
-python-jsonschema
-python-pyaml
-python-unidecode
-polkit-qt5
-qt5-location
-qt5-svg
-qt5-tools
-qt5-translations
-qt5-webengine
-qt5-xmlpatterns
-qt5ct
-yaml-cpp
-libyaml
-gtk-update-icon-cache
-icu
-hwinfo
-kpmcore
-libpwquality
-perl
-mkinitcpio-openswap
-ckbcomp
-calamares
+# kconfig
+# kcoreaddons
+# ki18n
+# kiconthemes
+# kio
+# polkit-qt6
+# qt6-base
+# qt6-svg
+# qt6-tools
+# solid
+# boost
+# extra-cmake-modules
+# ninja
+# python312
+# plasma-framework5
+# python-jsonschema
+# python-pyaml
+# python-unidecode
+# polkit-qt5
+# qt5-location
+# qt5-svg
+# qt5-tools
+# qt5-translations
+# qt5-webengine
+# qt5-xmlpatterns
+# qt5ct
+# yaml-cpp
+# libyaml
+# gtk-update-icon-cache
+# icu
+# hwinfo
+# kpmcore
+# libpwquality
+# perl
+# mkinitcpio-openswap
+# ckbcomp
+# calamares
