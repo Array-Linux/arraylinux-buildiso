@@ -3,4 +3,5 @@ if status is-interactive
     clear
 end
 
+fastfetch
 
