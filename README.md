@@ -24,7 +24,7 @@ We welcome contributions to improve the system, from installer tweaks to package
 3. Submit a pull request with a clear description of the changes.
 
 ## Contact
-For suggestions, questions, or feedback, open an issue in the repository or reach out via [GitHub Discussions](https://github.com/Array-Linux/discussions).
+For suggestions, questions, or feedback, open an issue in the repository or reach out via E-Mail <menaie@tutamail.com>
 
 ---
 _ArrayLinux - Simple, yet flexible._
