@@ -40,8 +40,7 @@ less
 lftp
 libfido2
 libusb-compat
-linux-zen
-linux-zen-headers
+linux
 linux-firmware
 linux-firmware-marvell
 livecd-sounds
@@ -112,7 +111,9 @@ zsh
 
 ## Desktop
 
+sddm
 cinnamon
+xdg-user-dirs
 # arraylinux-theming
 adw-gtk-theme
 # qogir-icon-theme
@@ -123,6 +124,8 @@ kitty
 fish
 fastfetch
 nemo
+nemo-preview
+nemo-fileroller
 firefox
 gparted
 htop
@@ -130,16 +133,16 @@ htop
 ## Softwares
 
 # Audio
-pipewire
-pipewire-alsa
-pipewire-jack
-pipewire-pulse
-pipewire-zeroconf
+# pipewire
+# pipewire-alsa
+# pipewire-jack
+# pipewire-pulse
+# pipewire-zeroconf
 
 # Bluetooth
 
-bluez
-bluez-utils
+# bluez
+# bluez-utils
 
 # System tools
 
